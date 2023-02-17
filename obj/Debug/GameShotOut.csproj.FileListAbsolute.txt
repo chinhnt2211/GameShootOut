@@ -1,0 +1,11 @@
+D:\University\OOP\CK\GameShotOut\obj\Debug\GameShotOut.csproj.AssemblyReference.cache
+D:\University\OOP\CK\GameShotOut\obj\Debug\GameShotOut.csproj.SuggestedBindingRedirects.cache
+D:\University\OOP\CK\GameShotOut\obj\Debug\GameShotOut.GamePlayView.resources
+D:\University\OOP\CK\GameShotOut\obj\Debug\GameShotOut.csproj.GenerateResource.cache
+D:\University\OOP\CK\GameShotOut\bin\Debug\GameShotOut.exe.config
+D:\University\OOP\CK\GameShotOut\bin\Debug\GameShotOut.exe
+D:\University\OOP\CK\GameShotOut\bin\Debug\GameShotOut.pdb
+D:\University\OOP\CK\GameShotOut\obj\Debug\GameShotOut.Properties.Resources.resources
+D:\University\OOP\CK\GameShotOut\obj\Debug\GameShotOut.csproj.CoreCompileInputs.cache
+D:\University\OOP\CK\GameShotOut\obj\Debug\GameShotOut.exe
+D:\University\OOP\CK\GameShotOut\obj\Debug\GameShotOut.pdb
